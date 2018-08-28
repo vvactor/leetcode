@@ -1,1 +1,7 @@
 leetcode problems solutions
+1、删除数组中的重复元素
+2、颠倒整数
+3、移动零
+4、旋转数组
+5、strStr
+6、两数之和
