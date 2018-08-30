@@ -1,4 +1,4 @@
-[移动零](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)
+##[移动零](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)
 
 给定一个数组 `nums`，编写一个函数将所有 `0` 移动到数组的末尾，同时保持非零元素的相对顺序。
 
