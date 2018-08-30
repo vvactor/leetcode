@@ -1,4 +1,4 @@
-leetcode problems solutions
+leetcode 问题列表
 1、删除数组中的重复元素
 2、颠倒整数
 3、移动零
