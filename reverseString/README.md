@@ -1,4 +1,4 @@
-#[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)
+# [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)
 
 编写一个函数，其作用是将输入的字符串反转过来。
 
